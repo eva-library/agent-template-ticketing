@@ -42,9 +42,9 @@ The purpose is to help you to build your own virtual assistant, to build your ow
 ## How to import a bot template
 It's super easy! Only 5 steps:
 1) First, download Agent Template zip file 
-To Spanish, click [Here][5b75358a-88df-484d-8536-cbe3324ac508.zip](https://github.com/eva-library/agent-template-ticketing/files/8682223/5b75358a-88df-484d-8536-cbe3324ac508.zip)
+To Spanish, click [Here][AT Ticketing ESP.zip](https://github.com/eva-library/agent-template-ticketing/files/9154122/AT.Ticketing.ESP.zip)
 
-To Portuguese, click [Here][3502c73e-9ae5-4dbb-8b0d-8f6c8e74022c.zip](https://github.com/eva-library/agent-template-ticketing/files/8682224/3502c73e-9ae5-4dbb-8b0d-8f6c8e74022c.zip)
+To Portuguese, click [Here][AT Ticketing PT.zip](https://github.com/eva-library/agent-template-ticketing/files/9154124/AT.Ticketing.PT.zip)
 
 2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
 
