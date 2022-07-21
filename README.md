@@ -19,7 +19,7 @@ This solution is focused for ticketing and help desk virtual assistant, featurin
 - Enhanced support 
 - FAQ 
 - Greetings 
-- Not expected o
+- Not expected
 - Open ticket 
 - Query ticket 
 - Register 
