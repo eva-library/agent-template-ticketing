@@ -35,16 +35,17 @@ This feature include Intents, Entities and also all the other eva cells, such as
 The purpose is to help you to build your own virtual assistant, to build your own flows, by offering a ready-made basis with the best UX writing practices in the market, as well as the best practices for using eva.
 
 ### Important
-- Agent Template is a template. That is, you can use as a good foundation, but you must customize the informations for your own business. It means that you should create your own webservice, your own page links, etc... Reach our documentation [HERE] https://docs.eva.bot/ntt-data-eva-docs/start-here/what-is-eva to know more about how to use eva.
+- Agent Template is a template. That is, you can use as a good foundation, but you must customize the informations for your own business. It means that you should create your own webservice, your own page links, etc... Reach our [documentation here](https://docs.eva.bot/ntt-data-eva-docs/start-here/what-is-eva) to know more about how to use eva.
 - The language are Spanish and Portuguese, but you can translate and edit information as you wish.
 - This feature is only available for eva versions starting with 3.4
 
 ## How to import a bot template
 It's super easy! Only 5 steps:
 1) First, download Agent Template zip file 
-To Spanish, click [Here][AT Ticketing ESP.zip](https://github.com/eva-library/agent-template-ticketing/files/9154122/AT.Ticketing.ESP.zip)
 
-To Portuguese, click [Here][AT Ticketing PT.zip](https://github.com/eva-library/agent-template-ticketing/files/9154124/AT.Ticketing.PT.zip)
+Spanish, [click here](https://github.com/eva-library/agent-template-ticketing/blob/main/a1d44a3b-7b58-4e4e-8673-205dae6a9d9e.zip)
+
+Portuguese, [click here](https://github.com/eva-library/agent-template-ticketing/files/9154124/AT.Ticketing.PT.zip)
 
 2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
 
