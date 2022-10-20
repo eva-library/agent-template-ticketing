@@ -3,7 +3,7 @@ At eva you can use agent template to create a virtual assistant for ticketing an
 
 ## Requirements 
 - eva
-- Has eva 3.4 version
+- from eva 3.4 version
 
 ## About Agent Template 
 Agent Template is a collection of flows provided by eva that can be used to establish a base for building conversations.
@@ -44,9 +44,11 @@ It's easy and can be done in just 5 steps:
 
 1) First, download Agent Template zip file 
 
-Spanish, [click here](https://github.com/eva-library/agent-template-ticketing/blob/main/a1d44a3b-7b58-4e4e-8673-205dae6a9d9e.zip)
+English [click here](https://github.com/eva-library/agent-template-ticketing/files/9832889/ticketing.eng.zip)
 
-Portuguese, [click here](https://github.com/eva-library/agent-template-ticketing/files/9154124/AT.Ticketing.PT.zip)
+Spanish [click here](https://github.com/eva-library/agent-template-ticketing/blob/main/a1d44a3b-7b58-4e4e-8673-205dae6a9d9e.zip)
+
+Portuguese [click here](https://github.com/eva-library/agent-template-ticketing/files/9154124/AT.Ticketing.PT.zip)
 
 2) Then, go to the cockpit, press the + button to add a new virtual agent, and choose "Import" (as seen below)
 
